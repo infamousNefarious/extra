@@ -1,3 +1,3 @@
 return {
-  {name = "Decuwu_RSG},
+  {name = "Decuwu_RSG"},
 }
