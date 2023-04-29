@@ -1,3 +1,3 @@
-local names = {
-  {name = "Decuwu_RSG"},
+return {
+  {name = "Decuwu_RSG"}
 }
